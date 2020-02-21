@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "outDir": "./built"
+  },
+  "include": ["src/**/**/*.ts"],
+  "exclude": ["./node_modules"]
+}
